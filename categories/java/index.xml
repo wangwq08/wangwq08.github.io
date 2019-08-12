@@ -6,10 +6,28 @@
     <description>Recent content in Java on Jachin - Stay foolish and stay hungry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jul 2019 09:56:38 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 12:23:54 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/java/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BigDecimal的介绍及使用</title>
+      <link>http://localhost:1313/post/bigdecimal%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Mon, 12 Aug 2019 12:23:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/bigdecimal%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BD%BF%E7%94%A8/</guid>
+      <description>BigDecimal的用处 《阿里巴巴Java开发手册》提到：浮点数之间的等值判断，基本数据类型不能用 == 来比较，包装数据类型不能用equals</description>
+    </item>
+    
+    <item>
+      <title>Java疑难点(一)</title>
+      <link>http://localhost:1313/post/java%E7%96%91%E9%9A%BE%E7%82%B9%E4%B8%80/</link>
+      <pubDate>Mon, 12 Aug 2019 11:47:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/java%E7%96%91%E9%9A%BE%E7%82%B9%E4%B8%80/</guid>
+      <description>正确使用equals()方法 Object的equals方法容易抛空指针异常，应该使用常量或确定有值的对象来调用equals. 举例： 1 2 3 4 5</description>
+    </item>
     
     <item>
       <title>Java基础知识(九)</title>
