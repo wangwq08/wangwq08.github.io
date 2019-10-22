@@ -3,8 +3,45 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-08-19T18:56:53+08:00</lastmod>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2019-10-22T17:13:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -24,18 +61,6 @@
     <lastmod>2019-08-19T18:56:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-08-19T18:56:53+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-08-19T18:56:53+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -102,16 +127,16 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/java/</loc>
-    <lastmod>2019-08-16T12:19:04+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/post/java%E6%B3%9B%E5%9E%8B%E8%AF%A6%E8%A7%A3%E5%8F%8A%E5%AE%9E%E7%8E%B0/</loc>
     <lastmod>2019-08-16T12:19:04+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/java/</loc>
+    <lastmod>2019-08-16T12:19:04+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -337,12 +362,6 @@
   
   <url>
     <loc>http://localhost:1313/categories/informix/</loc>
-    <lastmod>2019-08-02T18:14:57+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
     <lastmod>2019-08-02T18:14:57+08:00</lastmod>
     <priority>0</priority>
   </url>

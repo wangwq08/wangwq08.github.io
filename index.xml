@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>数据库优化</title>
+      <link>http://localhost:1313/post/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Tue, 22 Oct 2019 17:13:03 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BC%98%E5%8C%96/</guid>
+      <description>关于数据库优化 服务器层面： 配置mysql性能优化参数 数据库结构层面：优化数据表结构、字段类型、字段索引、分表、分库、读写分离等等 数据库层面：</description>
+    </item>
+    
+    <item>
       <title>Leetcode修炼2</title>
       <link>http://localhost:1313/post/leetcode%E4%BF%AE%E7%82%BC2/</link>
       <pubDate>Mon, 19 Aug 2019 18:56:53 +0800</pubDate>
